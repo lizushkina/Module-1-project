@@ -1,0 +1,40 @@
+/* @import fonts */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Roboto;
+}
+
+.how-to-watch {
+}
+
+.about {
+}
+
+/* формат */
+
+.format {
+}
+
+/* формат */
+.program {
+}
+
+.program-image {
+  width: 20px;
+}
+
+/* формат */
+.reviews {
+}
+
+.start-date {
+}
+
+.footer {
+}
